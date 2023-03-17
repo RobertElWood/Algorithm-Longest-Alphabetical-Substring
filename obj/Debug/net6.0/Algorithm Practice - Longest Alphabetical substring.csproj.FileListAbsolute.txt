@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\bin\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.exe
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\bin\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.deps.json
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\bin\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.runtimeconfig.json
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\bin\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.dll
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\bin\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.pdb
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.AssemblyInfo.cs
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.dll
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\refint\Algorithm Practice - Longest Alphabetical substring.dll
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.pdb
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\Algorithm Practice - Longest Alphabetical substring.genruntimeconfig.cache
+C:\Users\rober\Documents\C Sharp Projects\Algorithm Practice - Longest Alphabetical substring\obj\Debug\net6.0\ref\Algorithm Practice - Longest Alphabetical substring.dll
